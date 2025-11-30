@@ -1,0 +1,18 @@
+Project:,A64-OLinuXino hardware revision H,
+Component Refdes:,MICRO_SD1,
+Symbol Value:,MICRO_SD(TFC-WPAPR-08),
+Manufacturer Part Number:,Test_SD1,
+Generated on:,2025-11-29 18:08:58,
+,,
+Pin Number,Pin Name,Net Name
+1,DAT2/RES,SDC0-D2
+2,CD/DAT3/CS,SDC0-D3
+3,CMD/DI,SDC0-CMD
+5,CLK/SCLK,Net-(MICRO_SD1-CLK{slash}SCLK
+7,DAT0/DO,SDC0-D0
+8,DAT1/RES,SDC0-D1
+9,,SDC0-DET#
+10,,GND
+11,,GND
+12,,GND
+13,,GND
